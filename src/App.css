@@ -1,0 +1,18 @@
+.clouds {
+  display: flex;
+  justify-content: space-around;
+}
+
+.clouds2 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.cloud {
+  width: 250px;
+}
+
+.runway {
+  margin-top: 300px;
+  border-bottom: 2px solid grey;
+}
